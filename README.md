@@ -68,7 +68,7 @@
 
   ## Download   
 
-  <a href="https://github.com/teamxfire/TXF-URL-SHORTNER/raw/main/TXF%20URL%20SHORTNER.apk">DOWNLOAD NOW</a>  
+  <a href="https://github.com/teamxfire/Instagram-Cookie-Maker/raw/main/Instagram%20Cookie%20Maker.apk">DOWNLOAD APP</a>  
 
    
 
