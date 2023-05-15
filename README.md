@@ -1,6 +1,6 @@
-# TXF URL SHORTNER 
+# Instagram Cookie Maker 
 
-   TXF URL SHORTNER is an app that allows you to shorten any custom URL. We are the first in Bangladesh to make such an app and provide it for free. 
+   TXF Insta Cookie Maker is an app that make Instagram cookie. this app is free for everyone . 
 
      
 
@@ -44,11 +44,10 @@
 
     
 
-  Features:   
+ 
 
-  - 1) Totally free 
 
-  - 2) Custom Domain 
+
 
     
 
@@ -64,8 +63,7 @@
 
   For support <a href="https://t.me/CyberExpertMamun">(Telegram)</a> 
 
-    
-
+   
     
 
   ## Download   
